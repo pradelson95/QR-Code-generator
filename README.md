@@ -5,6 +5,8 @@ para poder usar la interfaz sin ningún problemas tendrá que instalar algunas l
 
 ![](https://github.com/pradelson95/QR-Code-generator/blob/main/photo1671140204.jpeg)
 
+![](https://github.com/pradelson95/QR-Code-generator/blob/main/photo1671140224.jpeg)
+
 # Installation 
 
 Instale las librerias usando pip
