@@ -105,7 +105,7 @@ ButtonGenerator = Button(window,
 
 ButtonGenerator.place(x=10, y=330)
 
-Btn_image = Button(window,
+Btn_url = Button(window,
                    text="Source Code Proyect",
                    font=("Arial", 19),
                    background="black",
@@ -113,7 +113,7 @@ Btn_image = Button(window,
                    activeforeground="black",
                    border=5,
                    command=help)
-Btn_image.place(x=295, y=331)
+Btn_url.place(x=295, y=331)
 
 # Mostrar la interfaz hasta que el usuario desida cerrarlo
 window.mainloop()
