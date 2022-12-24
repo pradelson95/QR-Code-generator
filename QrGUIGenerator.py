@@ -105,6 +105,7 @@ ButtonGenerator = Button(window,
 
 ButtonGenerator.place(x=10, y=330)
 
+#Este boton abre el navegador para redirigir al usuario a github para que vea el codigo fuente
 Btn_url = Button(window,
                    text="Source Code Proyect",
                    font=("Arial", 19),
