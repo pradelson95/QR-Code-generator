@@ -12,6 +12,6 @@ para poder usar la interfaz sin ningún problemas tendrá que instalar algunas l
 Instale las librerias usando pip
 
 ```
-pip3 install tkinter
-pip3 install qrcode 
+pip install future
+pip install qrcode 
 ```
